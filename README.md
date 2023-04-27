@@ -27,5 +27,5 @@ Aprender a utilizar etiquetas de HTML5 y las propiedades de CSS3, así como iden
 
 ## 🔗Link al Demo! 
 Visualiza mi proyecto terminado aquí: 👉🏽 [Clonación de Google](https://skydan231.github.io/Google-Clone-/)
-[clone-google.pdf](https://github.com/SkyDan231/Google-Clone-/files/11339102/clone-google.pdf)
+
 
